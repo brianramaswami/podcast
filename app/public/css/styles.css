@@ -1,0 +1,15 @@
+body{
+    /* color: black; */
+    /* background-color: black; */
+    background-image: url("sound-wave-illustration.jpg"); 
+}
+
+.jumbotron{
+    margin-top: 2%;
+    color: rgba(138, 19, 207, 0.897);
+            text-align: center;
+  }
+
+#header{
+    color: maroon;
+}

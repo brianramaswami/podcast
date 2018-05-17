@@ -1,0 +1,24 @@
+{
+  "name": "podcast",
+  "version": "1.0.0",
+  "description": "Website for podcast",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianramaswami/podcast.git"
+  },
+  "author": "Brian Ramaswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianramaswami/podcast/issues"
+  },
+  "homepage": "https://github.com/brianramaswami/podcast#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
