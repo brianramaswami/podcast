@@ -1,15 +1,24 @@
-body{
-    /* color: black; */
-    /* background-color: black; */
-    background-image: url("sound-wave-illustration.jpg"); 
+
+#body{
+    background-color: rgba(39, 37, 37, 0.897);
+    /* color: green; */
 }
 
 .jumbotron{
     margin-top: 2%;
-    color: rgba(138, 19, 207, 0.897);
-            text-align: center;
+    background-image: url("sound-wave-illustration.jpg"); 
   }
 
 #header{
-    color: maroon;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: none;
+}
+
+  .mygrid-wrapper-div {
+    border: solid red 5px;
+    overflow: scroll;
+    /* DO HEIGHT BY MULTIPLES OF 100 SINCE THATS THE HEIGHT OF THE EMBEDED LINK */
+    height: 300px;  
+    width: 425px;
 }
