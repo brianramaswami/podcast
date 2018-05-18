@@ -33,7 +33,7 @@ body{
   .mygrid-wrapper-div {
     border: solid red 5px;
     /* UNCOMMENT THIS WHEN READY TO DEPLOY */
-    /* border: transparent; */
+    border: transparent;
     overflow: auto;
     height: 450px;  
     width: 30%;
@@ -51,20 +51,22 @@ body{
 .Coming_Up_Podcasts{
     border: solid red 5px;
     /* UNCOMMENT THIS WHEN READY TO DEPLOY */
-    /* border: transparent; */
+    border: transparent;
     background: white;
     color: gray;
     height: 450px;
     width: 50%;
-    /* float: left; */
-    /* margin: 5%; */
+   
+}
+#news_title{
+    
 }
 
 /* SOCIAL MEDIA DIVS */
 .Social_Media{
     border: solid red 5px;
     /* UNCOMMENT THIS WHEN READY TO DEPLOY */
-    /* border: transparent; */
+    border: transparent;
     height: 450px;
     width: 10%; 
     margin: none;
