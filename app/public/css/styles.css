@@ -1,14 +1,10 @@
+/* BODY */
 body{
     background-image: url("soundwave1.jpg");
 }
+/*  */
 
-.background_body{
-    /* background-image: url("sound-wave-illustration.jpg"); */
-    /* background-image: url("soundwave1.jpg"); */
-    /* height: 100%; */
-    /* object-fit: fill; */
-}
-
+/* HEADER */
 .headerdiv{
     margin-top: 2%;
     background-color: transparent;
@@ -19,8 +15,9 @@ body{
     text-align: center;
     background-color: none;
 }
+/*  */
 
-
+/* COLUMNS ATTRIBUTES */
 .column{
     float: left;
     padding: 1%;
@@ -30,7 +27,9 @@ body{
     margin-bottom: 5%;
     width: 30%;
 }
+/*  */
 
+/* LINK DIVS */
   .mygrid-wrapper-div {
     border: solid red 5px;
     /* UNCOMMENT THIS WHEN READY TO DEPLOY */
@@ -38,7 +37,7 @@ body{
     overflow: auto;
     height: 450px;  
     width: 30%;
-    /* float: left; */
+
 }
 
 .link{
@@ -46,8 +45,13 @@ body{
     min-width: 100%;
     max-width: 100%;
 }
+/*  */
+
+/* NEWS DIVS */
 .Coming_Up_Podcasts{
     border: solid red 5px;
+    /* UNCOMMENT THIS WHEN READY TO DEPLOY */
+    /* border: transparent; */
     background: white;
     color: gray;
     height: 450px;
@@ -56,14 +60,18 @@ body{
     /* margin: 5%; */
 }
 
+/* SOCIAL MEDIA DIVS */
 .Social_Media{
     border: solid red 5px;
+    /* UNCOMMENT THIS WHEN READY TO DEPLOY */
+    /* border: transparent; */
     height: 450px;
     width: 10%; 
     margin: none;
 }
-/*SOCIAL MEDIA ICONS*/
 
+
+/*SOCIAL MEDIA ICONS*/
 .fa {
     /* padding: 40%; */
     font-size: 40px;
@@ -99,5 +107,5 @@ body{
     -ms-transition: all 0.2s;
     transition: all 0.2s;
 }
-
+/*  */
 
